@@ -2,7 +2,8 @@
   "kind": "collectionType",
   "collectionName": "cars",
   "info": {
-    "name": "cars"
+    "name": "cars",
+    "description": ""
   },
   "options": {
     "increments": true,
@@ -16,7 +17,7 @@
     "description": {
       "type": "string"
     },
-    "image": {
+    "image_url": {
       "type": "string"
     }
   }
