@@ -1,0 +1,23 @@
+{
+  "kind": "collectionType",
+  "collectionName": "cars",
+  "info": {
+    "name": "cars"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "image": {
+      "type": "string"
+    }
+  }
+}
