@@ -1,0 +1,57 @@
+{
+  "kind": "collectionType",
+  "collectionName": "hotels",
+  "info": {
+    "name": "hotels",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "image_url": {
+      "type": "string"
+    },
+    "price": {
+      "type": "string"
+    },
+    "Parking": {
+      "type": "string"
+    },
+    "Gym": {
+      "type": "string"
+    },
+    "Internet": {
+      "type": "string"
+    },
+    "rooms": {
+      "type": "string"
+    },
+    "smoking": {
+      "type": "string"
+    },
+    "food": {
+      "type": "string"
+    },
+    "bath": {
+      "type": "string"
+    },
+    "image_one": {
+      "type": "string"
+    },
+    "image_two": {
+      "type": "string"
+    },
+    "image_three": {
+      "type": "string"
+    }
+  }
+}
