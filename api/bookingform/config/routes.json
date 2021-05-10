@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/bookingforms",
+      "handler": "bookingform.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/bookingforms/count",
+      "handler": "bookingform.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/bookingforms/:id",
+      "handler": "bookingform.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/bookingforms",
+      "handler": "bookingform.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/bookingforms/:id",
+      "handler": "bookingform.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/bookingforms/:id",
+      "handler": "bookingform.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}
