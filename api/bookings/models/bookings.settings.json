@@ -11,11 +11,8 @@
     "draftAndPublish": true
   },
   "attributes": {
-    "date": {
-      "type": "date"
-    },
-    "availble": {
-      "type": "datetime"
+    "name": {
+      "type": "string"
     }
   }
 }
