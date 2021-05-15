@@ -13,6 +13,9 @@
   "attributes": {
     "name": {
       "type": "string"
+    },
+    "date": {
+      "type": "date"
     }
   }
 }
