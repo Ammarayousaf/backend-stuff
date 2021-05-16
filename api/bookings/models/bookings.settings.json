@@ -14,10 +14,10 @@
     "name": {
       "type": "string"
     },
-    "to": {
+    "from": {
       "type": "date"
     },
-    "from": {
+    "to": {
       "type": "date"
     }
   }
