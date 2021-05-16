@@ -53,8 +53,8 @@
     "image_three": {
       "type": "string"
     },
-    "image": {
-      "collection": "file",
+    "photo": {
+      "model": "file",
       "via": "related",
       "allowedTypes": [
         "images",
