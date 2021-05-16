@@ -2,8 +2,7 @@
   "kind": "collectionType",
   "collectionName": "bookings",
   "info": {
-    "name": "bookings",
-    "description": ""
+    "name": "bookings"
   },
   "options": {
     "increments": true,
