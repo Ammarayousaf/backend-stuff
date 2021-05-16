@@ -16,6 +16,9 @@
     },
     "date": {
       "type": "date"
+    },
+    "to": {
+      "type": "date"
     }
   }
 }
