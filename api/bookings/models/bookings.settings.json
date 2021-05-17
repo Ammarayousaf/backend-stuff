@@ -13,6 +13,9 @@
   "attributes": {
     "name": {
       "type": "string"
+    },
+    "quantity": {
+      "type": "integer"
     }
   }
 }
