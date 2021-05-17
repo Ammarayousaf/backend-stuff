@@ -13,15 +13,6 @@
   "attributes": {
     "name": {
       "type": "string"
-    },
-    "from": {
-      "type": "date"
-    },
-    "to": {
-      "type": "date"
-    },
-    "room": {
-      "type": "integer"
     }
   }
 }
