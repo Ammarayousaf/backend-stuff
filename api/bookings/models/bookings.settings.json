@@ -19,6 +19,9 @@
     },
     "to": {
       "type": "date"
+    },
+    "number": {
+      "type": "integer"
     }
   }
 }
