@@ -11,9 +11,6 @@
     "draftAndPublish": true
   },
   "attributes": {
-    "name": {
-      "type": "string"
-    },
     "quantity": {
       "type": "integer"
     },
