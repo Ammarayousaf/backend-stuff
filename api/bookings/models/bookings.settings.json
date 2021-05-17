@@ -22,6 +22,12 @@
     },
     "number": {
       "type": "integer"
+    },
+    "name": {
+      "type": "string"
+    },
+    "email": {
+      "type": "email"
     }
   }
 }
