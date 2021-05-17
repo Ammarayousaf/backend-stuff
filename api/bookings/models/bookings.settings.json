@@ -16,6 +16,9 @@
     },
     "quantity": {
       "type": "integer"
+    },
+    "from": {
+      "type": "date"
     }
   }
 }
