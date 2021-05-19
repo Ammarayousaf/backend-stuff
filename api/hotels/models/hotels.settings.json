@@ -23,13 +23,13 @@
     "price": {
       "type": "string"
     },
-    "Parking": {
+    "parking": {
       "type": "string"
     },
-    "Gym": {
+    "gym": {
       "type": "string"
     },
-    "Internet": {
+    "internet": {
       "type": "string"
     },
     "rooms": {
