@@ -10,7 +10,9 @@
     "strapi": "strapi"
   },
   "dependencies": {
+    "install": "^0.13.0",
     "knex": "^0.95.15",
+    "npm": "^8.3.0",
     "sqlite3": "^4.2.0",
     "strapi": "^3.6.8",
     "strapi-admin": "^3.0.6",
